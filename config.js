@@ -63,17 +63,17 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || ['-'],
+  botname: process.env.BotName || "*☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*", 
+  author: process.env.Author || "@✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎",
+  packname: process.env.PackName || "918293838182",
+  socialLink: process.env.Web || "https://zrluci.blogspot.com",
+  footer: process.env.Footer || "© ✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎",
+  prefa: process.env.Prefix || [''],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
-  warns: process.env.Warns_Limits || 3,
+  ownername: process.env.Owner_Name || "✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎",
+  ownernumber: process.env.Owner_Number || "918293838182",
+  instagramId: process.env.Insta || "i.luci.zr",
+  warns: process.env.Warns_Limits || 5,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
@@ -105,19 +105,19 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.botname = process.env.BotName || "*☠︎︎ʟᴜᴄɪ ɮօȶ ⚠︎✔*" 
+global.author = process.env.Author || "@✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎" 
+global.packname = process.env.PackName || "918293838182" 
+global.myweb = process.env.Web || "https://zrluci.blogspot.com" 
+global.footer = process.env.Footer || "© ✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎" 
+global.prefa = process.env.Prefix || [''] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "✫𝑳𝒖𝒄𝒊𝐙𝐑♕︎" 
+global.ownernumber = process.env.Owner_Number || "918293838182" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.instagramId = process.env.Insta || "i.luci.zr" 
+global.email = process.env.Email_Id || "luci@usa.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
@@ -130,5 +130,4 @@ global.Tips = [
 global.image_1 = readFileSync('./lib/Assets/image_1.jpg') // Thumbnail for allmenu command
 global.image_2 = readFileSync('./lib/Assets/image_2.jpg') // null image
 global.image_3 = readFileSync("./lib/Assets/image_3.jpg") // Thumbnail for Dashboard
-global.menu_pic = "https://i.ibb.co/PhDcZTM/Thumbnail.png";
-
+global.menu_pic = "https://i.imgur.com/LRdSbTk.jpeg";
